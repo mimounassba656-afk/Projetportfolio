@@ -2,7 +2,7 @@ import streamlit as st
 
 #commentaire==========================================================================================
 st.title('Maimouna Demba Ba')
-st.write('Technicienne en Sciences Technique Agricole Alimentaire et Nutritionelle')
+st.write('INGENIEUR AGRONOME')
 st.write('_____________________________________________________________________________________________')
 
 with st.sidebar:
@@ -12,7 +12,7 @@ with st.sidebar:
 
 st.subheader('PROFIL')
 st.markdown('             ')
-st.write('Je suis technicienne en Sciences et Techniques Agricoles, Alimentaires et Nutritionnelles à l’Université Amadou Mahtar Mbow.Je suis passionnée par les domaines de l’agriculture et de l’alimentation. J’ai acquis des compétences pratiques en semis, entretien des cultures, arrosage et récolte. Mon objectif est de renforcer mes compétences pour contribuer au développement du secteur agricole..')
+st.write(' Je suis ingenieur agronome.Je suis passionnée par les domaines de l’agriculture et de l’alimentation. J’ai acquis des compétences pratiques en semis, entretien des cultures, arrosage et récolte. Mon objectif est de renforcer mes compétences pour contribuer au développement du secteur agricole..')
 st.subheader('PARCOURS ACADEMIQUE')
 st.markdown('             ')
 st.write('2026–2027 :licence en Sciences et Techniques Agricoles, Alimentaires et Nutritionnelles à l’Université Amadou Mahtar Mbow.')
