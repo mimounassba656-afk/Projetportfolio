@@ -7,8 +7,8 @@ st.write('______________________________________________________________________
 
 with st.sidebar:
     st.subheader('📬Contact')
-    st.write('ba.demba1@uam.edu.sn')
-    st.write(' Thiès, Sénégal')
+    st.write('EMAIL: mimounassba656@gmail.com')
+    st.write('ADRESS: Thiès, Sénégal')
 
 st.subheader('PROFIL')
 st.markdown('             ')
