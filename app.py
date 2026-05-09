@@ -2,7 +2,7 @@ import streamlit as st
 
 #commentaire==========================================================================================
 st.title('Maimouna Demba Ba')
-st.write('INGENIEUR AGRONOME')
+st.subheader('Igenieur Agronome')
 st.write('_____________________________________________________________________________________________')
 
 with st.sidebar:
