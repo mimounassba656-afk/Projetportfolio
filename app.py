@@ -12,7 +12,7 @@ with st.sidebar:
 
 st.subheader('PROFIL')
 st.markdown('             ')
-st.write('Ingénieur agronome passionné par les domaines de l'agriculture durable et de la sécurité alimentaire. Rigoureux et doté d'une solide expérience de terrain, je maîtrise les techniques de production végétale, l'analyse des sols et la cartographie des zones de culture. Mon expertise inclut également le traitement de données techniques pour optimiser les rendements agricoles.')
+st.write("Ingénieur agronome passionné par les domaines de l'agriculture durable et de la sécurité alimentaire. Rigoureux et doté d'une solide expérience de terrain, je maîtrise les techniques de production végétale, l'analyse des sols et la cartographie des zones de culture. Mon expertise inclut également le traitement de données techniques pour optimiser les rendements agricoles.")
 st.subheader('PARCOURS ACADEMIQUE')
 st.markdown('             ')
 st.write('2026–2027 :licence en Sciences et Techniques Agricoles, Alimentaires et Nutritionnelles à l’Université Amadou Mahtar Mbow.')
